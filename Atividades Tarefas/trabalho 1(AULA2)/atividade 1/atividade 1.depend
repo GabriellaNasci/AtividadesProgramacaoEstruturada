@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1742763338 source:c:\users\user\documents\estudos\academicos\faculdade\1° ano\1° semestre\programação estruturada\atividades\atividade 1\main.cpp
+	<iostream>
+
+1742845150 source:c:\users\user\documents\estudos\academicos\faculdade\1° ano\1° semestre\programação estruturada\atividades tarefas\atividade 1\main.cpp
+	<iostream>
+	<locale>
+
