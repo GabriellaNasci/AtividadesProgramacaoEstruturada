@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1744799705 source:c:\users\aluno\downloads\dia1604\ex1\main.cpp
+	<iostream>
+	<locale>
+	<cstring>
+
