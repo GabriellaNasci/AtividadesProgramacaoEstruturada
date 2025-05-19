@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1744804752 source:c:\users\aluno\downloads\dia1604\trabalho\questao2\main.cpp
+	<iostream>
+	<iomanip>
+	<windows.h>
+

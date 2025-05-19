@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1744810684 source:c:\users\aluno\downloads\dia1604\trabalho\questao5\main.cpp
+	<iostream>
+	<locale>
+	<cmath>
+
