@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1746579103 source:c:\users\user\documents\estudos\academicos\faculdade\1° ano\1° semestre\programação estruturada\atividades tarefas\trabalho chato\programa chato 2.0\main.cpp
+	<iostream>
+	<locale>
+	<cstring>
+	<iomanip>
+	<string>
+
